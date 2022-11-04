@@ -24,7 +24,9 @@ function Home() {
   return (
     <div className={styles.container}>
       {loading ? (
-        <h1>Loading...</h1>
+        <div className={styles.loader}>
+          <span>Loading...</span>
+        </div>
       ) : (
         <div className={styles.movies}>
           {movies.map(movie => (
