@@ -30,6 +30,9 @@ in 노마드 코더 Nomad Coders
 8.3 Why React (04:44)  
 |- 2022.09.25.일 💩  
   
+### Chapter09~14  
+[Chapter09~14 Github](https://github.com/jung0115/movie-app-start-from-chap9)  
+  
 ### 9. SETUP  
 9.0 Creating your first React App (05:40)  
 9.1 Creating a Github Repository (02:36)  
