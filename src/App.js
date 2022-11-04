@@ -18,3 +18,9 @@ function App() {
 }
 
 export default App;
+
+/*
+npm run deploy
+git commit --allow-empty -m "reabuild"
+git push origin main
+*/
