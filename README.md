@@ -20,6 +20,8 @@ in 노마드 코더 Nomad Coders
 7.10 Next Steps (05:49)  
 |- 2022.09.11.일 💩  
   
+[Chapter07 github.io](https://jung0115.github.io/nomad-movie-app/)  
+  
 ### 8. INTRODUCTION  
 8.0 🚨 Read this First 🚨  
 8.1 Introduction (01:20)  
