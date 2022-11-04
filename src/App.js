@@ -9,10 +9,10 @@ import Detail from "./routes/Detail";
 // 7.7부터 강의 듣기
 
 function App() {
-  return <Router>
+  return <Router basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path="/movie/:id" basename={process.env.PUBLIC_URL} element={<Detail />} />
-      <Route path="/" basename={process.env.PUBLIC_URL} element={<Home />} />
+      <Route path="/movie/:id" element={<Detail />} />
+      <Route path="/" element={<Home />} />
     </Routes>
   </Router>;
 }
